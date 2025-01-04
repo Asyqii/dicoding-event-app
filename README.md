@@ -1,2 +1,6 @@
-# dicoding-event-app
-Dicoding Event Application
+
+![Dicoding Event Mockups](https://github.com/user-attachments/assets/5d641ecb-ee73-42ad-97de-60a515aa3aa5)
+
+# Dicoding Event App
+
+Dicoding Event is an application that displays what events are in dicoding.
