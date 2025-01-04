@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">MyDicodingEvent</string>
+    <string name="title_home">Dicoding Event</string>
+    <string name="title_home_nav">Home</string>
+    <string name="title_upcoming_nav">Upcoming</string>
+    <string name="title_finished_nav">Finished</string>
+    <string name="nama_event">Nama event</string>
+    <string name="upcoming_event">Upcoming Event</string>
+    <string name="data_gagal_ditampilkan">Data gagal ditampilkan</string>
+    <string name="owner_name">Nama Penyelenggara : </string>
+    <string name="begin_time">Waktu acara : </string>
+    <string name="quota_registrant">Sisa kuota : </string>
+    <string name="deskripsi">Deskripsi : </string>
+    <string name="gagal_mengambil_data">Gagal mengambil data</string>
+    <string name="register">Daftar Sekarang</string>
+    <string name="closed">Pendaftaran ditutup</string>
+    <string name="quota_full">Kuota telah penuh</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="finished_event">Finished Event</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="title_register">Daftarkan Sekarang</string>
+    <string name="title_pendaftaran_ditutup">Pendaftaran Ditutup</string>
+    <string name="diselenggarakan_oleh">Diselenggarakan oleh: %1$s</string>
+    <string name="jadwal_pelaksanaan">Jadwal Pelaksanaan :</string>
+
+    <string name="sisa_kouta">Sisa Kouta: %1$s</string>
+    <string name="mulai">Mulai:\t\t%1$s</string>
+    <string name="selesai">Selesai:\t\t%1$s</string>
+    <string name="love_icon">love_icon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorited">Favorited</string>
+    <string name="event_favorit_tidak_ada">Event Favorit tidak ada</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="icon_logo">icon_logo</string>
+    <string name="setting_aplikasi">Setting Aplikasi</string>
+    <string name="dark_mode">Mode Gelap</string>
+    <string name="enable_dark_mode">Aktifkan mode gelap</string>
+    <string name="daily_reminder">Pengingat harian</string>
+    <string name="enable_notification">Aktifkan Notifikasi</string>
+
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_upcoming"
+        android:icon="@drawable/ic_upcoming"
+        android:title="@string/title_upcoming_nav" />
+
+    <item
+        android:id="@+id/navigation_finished"
+        android:icon="@drawable/baseline_check_circle_24"
+        android:title="@string/title_finished_nav" />
+
+    <item
+        android:id="@+id/navigation_favorited"
+        android:icon="@drawable/ic_favorited"
+        android:title="@string/favorited" />
+
+    <item
+        android:id="@+id/navigation_setting"
+        android:icon="@drawable/ic_setting"
+        android:title="Setting" />
+
+</menu>
