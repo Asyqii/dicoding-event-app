@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MyDicodingEvent</string>
+    <string name="app_name">Dicoding Event</string>
     <string name="title_home">Dicoding Event</string>
     <string name="title_home_nav">Home</string>
     <string name="title_upcoming_nav">Upcoming</string>
@@ -52,5 +52,6 @@
     <string name="enable_dark_mode">Aktifkan mode gelap</string>
     <string name="daily_reminder">Pengingat harian</string>
     <string name="enable_notification">Aktifkan Notifikasi</string>
+    <string name="dicoding_event">Dicoding Event</string>
 
 </resources>
